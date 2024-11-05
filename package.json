@@ -1,0 +1,16 @@
+{
+  "name": "annie-tool-scripts-preview",
+  "homepage": "/annie-tool-scripts-preview",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^6.1.0"
+  }
+}
